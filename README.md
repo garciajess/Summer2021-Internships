@@ -26,13 +26,11 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | New York, Chicago | Software Engineering, Mid-Frequency Algo|
 |[IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading intern |
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York| |
-|[Pimco](https://careers.pimco.com/careers/FolderDetail/2021-Summer-Tech-Intern-Software-Engineering/28731)| Austin, Newport Beach| |
-|[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Software-Engineering-Internship--Summer-2021-_1982304)| San Diego, Santa Clara, San Jose, Boulder, Austin| |
-|[TD Bank](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5601&jobid=2610199&codes=UE4#jobDetails=2610199_5601)| NYC| | 
+|[Pimco](https://careers.pimco.com/careers/SearchJobs/?listFilterMode=1&794=%5B%7B%22%24JSNType%22%3A%22dataset_Option%22%2C%22value%22%3A%7B%22id%22%3A1262%2C%22name%22%3Anull%7D%7D%5D&794_format=659)| Austin, Newport Beach| Software Engineering, Data Science |
+|[TD Bank](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5601&jobid=2610199&codes=UE4#jobDetails=2610199_5601)| NYC| |
 |[Tower Research](https://www.tower-research.com/open-positions/?gh_jid=2238182) | Chicago, New York | |
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4787572002/)| New York | |
 |[NASA](https://nasa.force.com/s/login/)| Various | |
-|[NASA JPL](https://jpl.jobs/jobs/2019-11133-Software-Computing-Systems-Summer-Intern)| California | |
 |[PDT Partners](https://www.pdtpartners.com/jobs.html?gh_jid=1372119)| New York | |
 |[Point72](https://careers.point72.com/CSJobDetail?jobName=2021-academy-summer-internship-new-york&jobCode=CPA-0005726&retURL=/CSCareerSearch)| New York | Analyst Academy|
 |[Bracebridge Capital](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=227&source=PittCSC&src=PittCSC&gns=PittCSC)|Boston||
@@ -45,17 +43,23 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=%22software%20engineer%20intern%22&location=&facetcountry=us) | Various | |
 |[Discover](https://jobs.discover.com/job/11209494/2021-business-technology-internship-program-houston-undergraduate-houston-tx/) | Houston | |
 |[Prudential](https://jobs.prudential.com/job-description.php?jobReqNo=TA%200002M&IsThisACampusRequisition=Yes) | Newark, NJ | Application period 1 ends September 1st, period 2 ends October 1st |
-|[Neeva](https://jobs.lever.co/neeva/6111dabf-6e9c-4230-b780-d879f7bf63f3/apply?lever-source=PittCSC)| Mountain View, CA | | 
+|[Neeva](https://jobs.lever.co/neeva/6111dabf-6e9c-4230-b780-d879f7bf63f3/apply?lever-source=PittCSC)| Mountain View, CA | |
 |[Squarepoint Capital](https://www.squarepoint-capital.com/job#462517) | NY, London, Singapore, Montreal | |
 |[Cambly](https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede/apply?lever-source=PittCSC) | San Francisco | |
 |[Nuro](https://nuro.ai/careersitem?gh_jid=2256734&gh_src=pittcsc) | Mountain View | Have more [hardware internships here](https://nuro.ai/careers) |
 |[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=6666&source=PittCSC)| New York NY | |
 |[Zapata Computing](https://zapata.bamboohr.com/jobs/view.php?id=67&source=pittcsc) | Boston, MA| |
 |[National Security Agency](https://apply.intelligencecareers.gov/job-description/1145701?fbclid=IwAR0m_4RIc9BsP0VvR4kN139YN4IMN63xIfOKob3pnv6nWKqit3ZFjD4SOFE) | Fort Meade, MD | The application period runs from 1 May - 15 October 2020 |
-|[SAP](https://jobs.sap.com/job/San-Ramon-SAP-iXp-Intern-Mobile-Job-CA-94582/597502701/) | San Ramon, CA | |
+|[MealMe](https://www.mealme.ai/careers) |  | |
+|[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=%2211050430%22%20OR%20%2211050428%22%20OR%20%2211050431%22%20OR%20%2211050429%22) | Malvern, PA or Charlotte, NC ||
+|[Abbvie](https://careers.abbvie.com/abbvie/jobs/2005191?lang=en-us&previousLocale=en-US) | Chicago | |
+|[Optiver](https://www.optiver.com/na/en/job-opportunities/Campus/all/Chicago/) | Chicago | |
+|[BASF](https://basf.jobs/light_green_NA/job/Florham-Park-Professional-Development-Program-%28PDP%29-Internship-Data-Science-Summer-2021-NJ-07932/611553501/?feedId=111101&src=PittCSC)| New Jersey | Data Science Internship |
 
 Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏 
 
+* [qhb1001](https://github.com/qhb1001)
+* [bwaits2](https://github.com/bwaits2)
 * [garciajess](https://github.com/garciajess)
 * [zejunliu](https://github.com/zejunliu)
 * [coffeeologist](https://github.com/coffeeologist)
@@ -80,6 +84,7 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [azharichenko](https://github.com/azharichenko)
 * [varughese](https://github.com/varughese)
 * [zmwang622](https://github.com/zmwang622)
+* [rubywerman](https://github.com/rubywerman)
 
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) 🐐 for the inspiration!
